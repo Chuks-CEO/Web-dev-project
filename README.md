@@ -66,6 +66,6 @@
 
 
 
-*Step 17* -You can type git config --global to find out how to do this.
+***Thank you*** 
 
 

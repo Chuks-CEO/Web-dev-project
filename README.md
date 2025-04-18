@@ -32,39 +32,40 @@
 
 *Step 8* - Create another file called fourth.txt.
 
-
+<img width="485" alt="Image" src="https://github.com/user-attachments/assets/d012eeb2-a44d-4cc5-bfb4-ea9662299cc3" />
 
 *Step 9* - Add fourth.txt to the staging area.
 
-
+<img width="491" alt="Image" src="https://github.com/user-attachments/assets/24e231ec-489d-4316-9711-9431844de1b5" />
 
 *Step 10* - Commit with the message "adding fourth.txt" 
 
-
+<img width="489" alt="Image" src="https://github.com/user-attachments/assets/3c2cbf9d-59ba-4962-a109-0603e391ff3e" />
 
 *Step 11* - Remove the third.txt file.
 
-
+<img width="493" alt="Image" src="https://github.com/user-attachments/assets/6cd983b7-7776-49a0-842e-f065b7c64142" />
 
 *Step 12* - Add this change to the staging area.
 
-
+<img width="489" alt="Image" src="https://github.com/user-attachments/assets/39ef5da7-2e71-4287-92a1-5da9399ad1eb" />
 
 *Step 13* -Commit with the message "removing third.txt".
 
-
+<img width="490" alt="Image" src="https://github.com/user-attachments/assets/debc93db-927c-4558-8785-0870316d421c" />
 
 *Step 14* -Check out your commits using git log.
 
+<img width="492" alt="Image" src="https://github.com/user-attachments/assets/aa6407e8-320a-4cca-b059-b0d0b1c49b90" />
 
 
 *Step 15* -Change your global settings to core.pager=cat
 
-
+<img width="490" alt="Image" src="https://github.com/user-attachments/assets/c423a5ec-8ff5-471b-bde9-8db1caf12c81" />
 
 *Step 16* -Write the appropriate command to list all the global configurations for git on your machine.
 
-
+<img width="492" alt="Image" src="https://github.com/user-attachments/assets/d3ba0c0d-7b61-4cc3-a202-da4fe9fe898a" />
 
 ***Thank you*** 
 

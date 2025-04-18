@@ -8,7 +8,7 @@
 
 *Step 2* - Cd (change directory) into the learn_git folder.
 
-
+<img width="149" alt="Image" src="https://github.com/user-attachments/assets/3be23c86-3c12-45e4-b96c-a82d6ad4633d" />
 
 *Step 3* - Create a file called third.txt.
 
